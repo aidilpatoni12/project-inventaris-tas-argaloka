@@ -1,0 +1,6 @@
+{
+  "name": "Argaloka — Inventaris Tas",
+  "description": "Sistem inventaris tas Argaloka untuk mengelola produk, kategori, warna, pergerakan stok, dan keuntungan penjualan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
